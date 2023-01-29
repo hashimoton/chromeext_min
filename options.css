@@ -1,0 +1,18 @@
+:root {
+  --popup-width: 400px;
+  --color-primary: #0C3B89; /* Navy */
+  --color-secondary: #D2E4FC; /* Pale blue */
+  --color-tertialy: #EDDDB9; /* Pale brown */
+}
+
+body {
+  width: var(--popup-width);
+  color: var(--color-primary);
+  background-color: var(--color-secondary);
+}
+
+h1 {
+  color: var(--color-primary);
+  background-color: var(--color-secondary);
+}
+
